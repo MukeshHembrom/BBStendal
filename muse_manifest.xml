@@ -1,0 +1,52 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bbstendal.com" resolutions="1x" timestamp="1452549992514">
+  <folder name="css">
+    <file name="site_global.css" crc="218871283"/>
+    <file name="master_a-master.css" crc="124808225" ref="index"/>
+    <file name="index.css" crc="3774507188" ref="index"/>
+    <file name="iefonts_index.css" crc="3962499668" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index"/>
+    <file name="form_process.php" crc="24249335" ref="index"/>
+    <file name="form-u252.php" crc="3833031741" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="273335560" ref="index"/>
+    <file name="banner.png" crc="3966110651" ref="index"/>
+    <file name="bannerlogo.png" crc="492288352" seo="true" ref="index"/>
+    <file name="left.png" crc="171898253" seo="true" ref="index"/>
+    <file name="right.png" crc="3989804778" seo="true" ref="index"/>
+    <file name="anchor.png" crc="4260039805" seo="true" ref="index"/>
+    <file name="bookingimg.jpg" crc="535740991" seo="true" ref="index"/>
+    <file name="earthright.png" crc="353952016" ref="index"/>
+    <file name="earthleft.png" crc="4266376197" ref="index"/>
+    <file name="mailingimg.png" crc="149027276" ref="index"/>
+    <file name="earthright2.png" crc="353952016" ref="index"/>
+    <file name="earthleft2.png" crc="4266376197" ref="index"/>
+    <file name="feedbackimg.png" crc="4153060784" ref="index"/>
+    <file name="mapsimg.png" crc="277556186" ref="index"/>
+    <file name="u253-17.png" crc="353341301" ref="index"/>
+    <file name="u253-17-r.png" crc="4012049284" ref="index"/>
+    <file name="u253-17-m.png" crc="4276291652" ref="index"/>
+    <file name="u253-17-fs.png" crc="3862848885" ref="index"/>
+    <file name="legallogo.png" crc="347835117" seo="true" ref="index"/>
+    <file name="legalimg.png" crc="4208682010" ref="index"/>
+    <file name="down.png" crc="4099954139" ref="index"/>
+    <file name="up.png" crc="3992912618" ref="index"/>
+    <file name="edd.jpg" crc="3884993315" seo="true" ref="index"/>
+    <file name="sandra-crop-u439.jpg" crc="362535008" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3902236424" seo="true" mt="1452549756559" redirect="true"/>
+</manifest>
